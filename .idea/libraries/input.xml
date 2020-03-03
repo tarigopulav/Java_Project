@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="input">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/input.txt" />
+    </SOURCES>
+  </library>
+</component>
